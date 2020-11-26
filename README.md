@@ -10,4 +10,4 @@ Modern Hotel Tip Calculator - Developed with Node JS, HTML and CSS
 
 REST API DB WEB App - Developed with NODE JS(Express, EJS, BodyParser, MongoDB Client), MongoDB, Mongoose, Postman, HTML and CSS
 
-ML Web Simulation App - Developed with Node JS, REACT JS, Tensorflow.JS
+ML Web Simulation App(In development) - Developed with Node JS, REACT JS, Tensorflow.JS
