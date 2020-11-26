@@ -1,0 +1,207 @@
+.bill{
+  font-family: 'Cinzel Decorative', cursive;
+  left: 480px;
+  position: relative;
+  top: 150px;
+}
+
+.bills{
+  background-color: #bfdcae;
+  border-radius: 20px;
+  border-style: none;
+  font-family: 'Marcellus SC', serif;
+  height: 30px;
+  left: 580px;
+  position: relative;
+  top: 150px;
+  width: 180px;
+
+}
+
+.bills:hover{
+  background-color: #a3d8f4;
+}
+
+.billcurrency{
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  border-style: none;
+  font-family: 'Cinzel Decorative', cursive;
+  height: 20px;
+  left: 590px;
+  position: relative;
+  top: 150px;
+  width: 180px;
+}
+
+.billcurrency:hover{
+  background-color: #a3d8f4;
+}
+
+.service{
+  font-family: 'Cinzel Decorative', cursive;
+  position: relative;
+  right: 140px;
+  top: 230px;
+
+}
+
+.services{
+  background-color: #e5e5e5;
+  border-radius: 30px;
+  border-style: none;
+  font-family: 'Marcellus SC', serif;
+  height: 30px;
+  left: 15px;
+  position: relative;
+  top: 230px;
+  width: 180px;
+
+}
+
+.services:hover{
+  background-color: #a3d8f4;
+}
+
+.hotel{
+  font-family: 'Cinzel Decorative', cursive;
+  position: relative;
+  right: 515px;
+  top: 310px;
+}
+
+.hoteltype{
+  background-color: #e5e5e5;
+  border-radius: 30px;
+  border-style: none;
+  font-family: 'Marcellus SC', serif;
+  height: 30px;
+  position: relative;
+  right: 280px;
+  top: 310px;
+  width: 180px;
+}
+
+.hoteltype:hover{
+  background-color: #a3d8f4;
+}
+
+.hotelenv{
+  font-family: 'Cinzel Decorative', cursive;
+  position: relative;
+  right: 810px;
+  top: 390px;
+
+}
+
+.hotelenvironm{
+  background-color: #e5e5e5;
+  border-radius: 30px;
+  border-style: none;
+  font-family: 'Marcellus SC', serif;
+  height: 30px;
+  position: absolute;
+  right: 520px;
+  top: 390px;
+  width: 180px;
+}
+
+.hotelenvironm:hover{
+  background-color: #a3d8f4;
+}
+
+.dish{
+  font-family: 'Cinzel Decorative', cursive;
+  position: absolute;
+  right: 910px;
+  top: 470px;
+
+}
+
+.dishes{
+  background-color: #e5e5e5;
+  border-radius: 30px;
+  border-style: none;
+  font-family: 'Marcellus SC', serif;
+  height: 30px;
+  left: 815px;
+  position: relative;
+
+  top: 430px;
+  width: 180px;
+
+}
+
+.dishes:hover{
+  background-color: #a3d8f4;
+}
+
+.bial{
+  font-family: 'Cinzel Decorative', cursive;
+  left: 280px;
+  position: relative;
+
+  top: 510px;
+
+}
+
+.bialls{
+  background-color: #e5e5e5;
+  border-radius: 30px;
+  border-style: none;
+  font-family: 'Marcellus SC', serif;
+  height: 30px;
+  left: 325px;
+  position: relative;
+
+  top: 510px;
+  width: 180px;
+}
+
+.bialls{
+  background-color: #a3d8f4;
+}
+
+.fli{
+  background-color: #94b4a4;
+  border-radius: 40px;
+  border-style: none;
+  font-family: 'Antic Didone', serif;
+  height: 30px;
+  left: 135px;
+  position: relative;
+
+  top: 580px;
+  width: 180px;
+
+}
+
+.fli:hover{
+  background-color: silver;
+}
+
+h1{
+  font-family: 'Antic Didone', serif;
+  left: 450px;
+  position: relative;
+}
+h4{
+  font-family: 'Marcellus SC', serif;
+  left: 600px;
+  position: relative;
+}
+.whole{
+  bottom: 120px;
+  position: relative;
+
+}
+
+.bdy{
+  background-color: #e3dfc8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body{
+  background-color: #f6f6f6;
+}
