@@ -1,0 +1,124 @@
+.data{
+  font-family: 'Poiret One', cursive;
+  left: 550px;
+  position: relative;
+  top: 250px;
+}
+.dataa{
+  font-family: 'Poiret One', cursive;
+  left: 290px;
+  position: relative;
+  top: 330px;
+}
+.dataaa{
+  font-family: 'Poiret One', cursive;
+  left: 25px;
+  position: relative;
+  top: 420px;
+}
+.data2{
+
+  border-radius: 20px;
+  border-style: none;
+  font-family: 'Poiret One', cursive;
+  height: 40px;
+  left: 700px;
+  position: relative;
+  top: 250px;
+  width: 180px;
+}
+.data2:hover{
+  background-color: #835858;
+  font-family: 'Cinzel', serif;
+}
+.data3{
+
+  border-radius: 20px;
+  border-style: none;
+  font-family: 'Poiret One', cursive;
+  height: 40px;
+  left: 430px;
+  position: relative;
+  top: 330px;
+  width: 180px;
+}
+.data3:hover{
+  background-color: #835858;
+  font-family: 'Cinzel', serif;
+}
+.data4{
+
+  border-radius: 20px;
+  border-style: none;
+  font-family: 'Poiret One', cursive;
+  height: 40px;
+  left: 130px;
+  position: relative;
+  top: 420px;
+  width: 180px;
+}
+.data4:hover{
+  background-color: #835858;
+  font-family: 'Cinzel', serif;
+}
+.data5{
+
+  border-radius: 20px;
+  border-style: dotted;
+  font-family: 'Poiret One', cursive;
+  height: 40px;
+  position: relative;
+  right: 50px;
+  top: 520px;
+  width: 160px;
+}
+.data5:hover{
+  background-color: #838383;
+  font-family: 'Cinzel', serif;
+}
+.fun{
+  font-family: 'Poiret One', cursive;
+  left: 520px;
+  position: relative;
+}
+.funoo{
+  font-family: 'Cinzel', serif;
+  left: 600px;
+  position: relative;
+}
+.funooo{
+  font-family: 'Cinzel', serif;
+  left: 160px;
+  position: relative;
+}
+.funo{
+  font-family: 'Cinzel', serif;
+  left: 300px;
+  position: relative;
+  top: 420px;
+}
+.whole{
+  bottom: 310px;
+  position: relative;
+}
+body{
+  background-color: #f4f4f4;
+}
+.funoa{
+  font-family: 'Cinzel', serif;
+  left: 550px;
+  position: relative;
+  top: 420px;
+}
+.funob{
+  font-family: 'Cinzel', serif;
+  left: 350px;
+  position: relative;
+  top: 440px;
+}
+.funoc{
+  font-family: 'Cinzel', serif;
+  left: 550px;
+  position: relative;
+  top: 450px;
+}
