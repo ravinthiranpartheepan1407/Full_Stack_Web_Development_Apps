@@ -1,0 +1,11 @@
+label{
+  color:purple;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 25px;
+  left: 200px;
+  position: absolute;
+  top:50px;
+}
+body{
+  background-color: #f4f6ff;
+}

@@ -1,0 +1,41 @@
+body
+{
+  background-color: #222831;
+  color: silver;
+  font-family: 'Julius Sans One', sans-serif;
+  position: relative;
+  top:170px;
+}
+input
+{
+  background-color:#30475e;
+  border-style: hidden;
+  color: silver;
+  font-family: 'Julius Sans One', sans-serif;
+  height: 40px;
+}
+.pinky
+{
+  background-color: #323232;
+  border-radius:15px;
+  color: silver;
+  font-family: 'Julius Sans One', sans-serif;
+  left: 30px;
+  position: relative;
+}
+input:hover
+{
+  background-color: #206a5d;
+}
+.pinky:hover
+{
+  background-color: #fc5185;
+}
+p
+{
+  color: #dcedc2;
+}
+.ponky
+{
+  border-radius:15px;
+}

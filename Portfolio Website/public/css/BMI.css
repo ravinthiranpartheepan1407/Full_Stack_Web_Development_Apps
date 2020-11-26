@@ -1,0 +1,54 @@
+.bmw
+{
+  background-color: inherit;
+  position: absolute;
+  right:480px;
+  top:180px;
+}
+input:hover
+{
+  background-color: #7d5a5a;
+}
+input
+{
+  background-color: #393e46;
+  border-color: inherit;
+  border-style: hidden;
+  color: silver;
+  font-family: 'Julius Sans One', sans-serif;
+  height: 40px;
+}
+.wing
+{
+  border-color: #e7305b;
+  border-radius:15px;
+  border-style: solid;
+}
+p
+{
+  font-family: 'Julius Sans One', sans-serif;
+  position: absolute;
+  right: 200px;
+  top: 280px;
+}
+h1
+{
+  font-family: 'Julius Sans One', sans-serif;
+}
+body
+{
+  background-color:#232931;
+  color: silver;
+  left: 70px;
+  position: relative;
+}
+.ging
+{
+  border-radius:15px;
+  position: absolute;
+  right: 270px;
+  top: 220px;
+}
+label{
+  font-family: 'Julius Sans One', sans-serif;
+}

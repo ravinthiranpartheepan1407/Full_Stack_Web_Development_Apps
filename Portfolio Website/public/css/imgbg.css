@@ -1,0 +1,298 @@
+img:hover
+{
+  background-color: silver;
+}
+.Jack
+{
+  background-color: #cffffe;
+  border-radius: 15px;
+}
+.Light
+{
+  background-color: white;
+  border-radius: 15px;
+}
+.Bfp
+{
+  background-color: black;
+  border-radius: 15px;
+}
+.Black
+{
+  background-color: #f4f6ff;
+  border-radius: 15px;
+}
+.Motivation
+{
+  color: #3c2946;
+}
+.Avatar
+{
+  background-color: black;
+  border-radius: 15px;
+}
+p:hover
+{
+  color: black;
+  font-family: 'Salsa', cursive;
+}
+div
+{
+  background-color: #e4fffe;
+  font-family:serif;
+}
+h1
+{
+  color: grey;
+  font-family: 'Salsa', cursive;
+  font-size: 200%;
+}
+.clouds
+{
+  background-color: inherit;
+  bottom:50px;
+  position: relative;
+  right: 250px;
+  width: 300px;
+
+}
+.cloudy
+{
+  background-color: inherit;
+  bottom: 250px;
+  left:600px;
+  position:relative;
+  width: 300px;
+}
+.cloudsi
+{
+  background-color: inherit;
+  bottom: 350px;
+  height:50px;
+  position:relative;
+  right:400px;
+  width: 300px;
+}
+.cloudsip
+{
+  background-color: inherit;
+  bottom: 500px;
+  height:50px;
+  left:250px;
+  position:relative;
+  width: 300px;
+}
+.cloudsir
+{
+  background-color: inherit;
+  bottom: 600px;
+  height:50px;
+  position:relative;
+  right:250px;
+  width: 300px;
+}
+.cloudsirs
+{
+  background-color: inherit;
+  bottom: 500px;
+  height:50px;
+  position:relative;
+  right:250px;
+  width: 300px;
+}
+table
+{
+  font-family: 'Salsa', cursive;
+}
+.bt
+{
+  background-color: #fbe6d4;
+  border-color: inherit;
+  border-radius: 15px;
+  border-style:hidden;
+  font-family: 'Salsa', cursive;
+  height: 50px;
+  width: 90px;
+}
+.bt:hover
+{
+  background-color: #363636;
+  color: pink;
+}
+.Area{
+  background-color: #cffffe;
+  border-color: silver;
+  border-radius: 15px;
+  border-style: solid;
+}
+.Sect
+{
+  background-color: #fbe6d4;
+  border-color: inherit;
+  border-radius: 15px;
+  border-style: hidden;
+  bottom:300px;
+  font-family: 'Salsa', cursive;
+  height: 50px;
+  left:1270px;
+  position: relative;
+
+}
+.Sect:hover
+{
+  background-color: #363636;
+  color: pink;
+}
+.Cold
+{
+  background-color: #fbe6d4;
+  border-color: inherit;
+  border-radius: 15px;
+  border-style:hidden;
+  bottom: 350px;
+  font-family: 'Salsa', cursive;
+  height: 50px;
+  left:1270px;
+  position: relative;
+}
+.Cold:hover
+{
+  background-color: #363636;
+  color: pink;
+}
+.Ug
+{
+  background-color: inherit;
+  border-color: inherit;
+  border-style:hidden;
+
+}
+.Ug:hover
+{
+  background-color: #fbe6d4;
+  color: #363636;
+}
+td
+{
+  border-style: hidden;
+}
+.Dem
+{
+  background-color: #cffffe;
+  border-color: silver;
+  border-radius: 15px;
+  border-style: solid;
+  height: 30px;
+  margin-bottom: 0;
+  width:200px;
+}
+.Dem:hover
+{
+  background-color: pink;
+  color: #363636;
+}
+.kt:hover
+{
+  background-color: #222831;
+}
+.bong
+{
+  border-radius: 15px;
+}
+.bong:hover{
+  color: purple;
+  opacity: 0.9;
+}
+p{
+  color: #7d5a5a;
+  font-size: 15px;
+}
+.opo:hover{
+  background-color: purple;
+  opacity: 0.8;
+}
+.bongg
+{
+  border-radius: 15px;
+}
+.bongg:hover{
+background-color:#f8f3eb ;
+}
+h5{
+  color:#7d5a5a;
+}
+a{
+  color: grey;
+  font-family: Dancing;
+}
+.bongo{
+  border-radius: 15px;
+  bottom:100px;
+  position: relative;
+  right: 150px;
+}
+.bongoo{
+  border-radius: 15px;
+  bottom:200px;
+  left: 150px;
+  position: relative;
+}
+.upper{
+  background-color: inherit;
+  bottom:100px;
+  position: relative;
+  right:10px;
+}
+.upr{
+  background-color: silver;
+  border-color: pink;
+  border-radius: 15px;
+  border-style: dotted;
+  color: grey;
+  height: 50px;
+  width: 150px;
+
+}
+.upr:hover{
+  background-color: #fbe6d4;
+}
+.subs{
+  border-color: purple ;
+  border-radius: 15px;
+  border-style: solid;
+  color: grey;
+  height: 40px;
+  width: 120px;
+}
+.subs:hover{
+  background-color: #f4f6ff;
+}
+.su{
+  border-style: hidden;
+  color:black;
+  font-family: 'Julius Sans One', sans-serif;
+}
+body{
+  font-family: 'Julius Sans One', sans-serif;
+}
+.labo{
+  background-color: inherit;
+  border-color: pink;
+  border-radius: 15px;
+  border-style: solid;
+  height: 200px;
+}
+.labo:hover{
+  border-color: purple;
+  opacity: 0.4;
+}
+.Mini{
+  background-color: #d6e0f0;
+}
+a{
+  text-decoration: none;
+}
+.mozo{
+  color: black;
+  font-family: 'Salsa', cursive;
+}

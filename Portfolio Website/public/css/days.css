@@ -1,0 +1,23 @@
+body{
+  background-color: #1a1a2e;
+  color: grey;
+  font-family: 'Julius Sans One', sans-serif;
+  left: 300px;
+  position: absolute;
+  top: 180px;
+}
+input
+{
+  background-color: #1b262c;
+  border-color: #ed6663;
+  border-radius:15px;
+  border-style: solid;
+  color: silver;
+  height: 30px;
+  width: 200px;
+}
+input:hover{
+  background-color: #d54062;
+  color: #f9f7d9;
+  font-family: 'Salsa', cursive;
+}

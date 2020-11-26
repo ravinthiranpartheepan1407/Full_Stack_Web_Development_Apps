@@ -1,0 +1,25 @@
+input
+{
+  background-color : #3b6978;
+  border-style : hidden;
+  height: 50px;
+  left:250px;
+  position: relative;
+  top: 190px;
+  width: 150px;
+}
+input:hover{
+  background-color: #f5f5f5;
+  font-family: 'Julius Sans One', sans-serif;
+}
+body
+{
+  background-color: #3b2e5a;
+}
+h2
+{
+  color: #faeee7;
+  font-family: 'Julius Sans One', sans-serif;
+  position: relative;
+  top:50px;
+}

@@ -1,0 +1,89 @@
+body{
+  background-color: #d3dbff;
+  color: purple;
+}
+label{
+    font-family: 'Julius Sans One', sans-serif;
+}
+.aa{
+  background-color: #ffdecf;
+  border-color: #f4f6ff;
+  border-radius: 15px;
+  border-style: solid;
+  position: relative;
+  top:250px;
+  left: 560px;
+  width: 190px;
+  height: 30px;
+}
+.aaa{
+  background-color: #ffdecf;
+  border-color: #f4f6ff;
+  border-radius: 15px;
+  border-style: solid;
+  position: relative;
+  top:300px;
+  left: 230px;
+  width:190px;
+  height: 30px;
+}
+.aaaa{
+  background-color: #ffdecf;
+  border-color: #f4f6ff;
+  border-radius: 15px;
+  border-style: solid;
+  position: relative;
+  top:350px;
+  right: 30px;
+  width: 190px;
+  height: 30px;
+}
+.aaaaa{
+  background-color: #e79cc2;
+  border-color: #f4f6ff;
+  border-radius: 15px;
+  border-style: solid;
+  position: relative;
+  top:400px;
+  right:160px;
+  height: 40px;
+}
+.aaaaaa{
+
+  color: purple;
+  position: relative;
+  top: 350px;
+  right: 50px;
+
+}
+.f{
+
+  color: purple;
+  position: relative;
+  top: 250px;
+  left: 550px;
+
+}
+.s{
+
+  color: purple;
+  position: relative;
+  top: 300px;
+  left: 220px;
+
+}
+input:hover{
+  background-color: #f5f1da;
+  border-radius: 15px;
+}
+.aaaaa:hover{
+  background-color: #89c9b8;
+  color: purple;
+  font-family: 'Julius Sans One', sans-serif;
+}
+h1{
+  font-family: 'Julius Sans One', sans-serif;
+  left:650px;
+  position: absolute;
+  top : 150px;
+}
