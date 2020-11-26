@@ -1,0 +1,130 @@
+.clustering{
+  border-radius: 30px;
+  border-style: solid;
+  bottom: 350px;
+  height: 150px;
+  left: 150px;
+  position: absolute;
+  width: 250px;
+}
+
+.bayes{
+  border-radius: 30px;
+  border-style: solid;
+  bottom: 350px;
+  height: 150px;
+  left: 620px;
+  position: absolute;
+  width: 250px;
+}
+
+.ada{
+  border-radius: 30px;
+  border-style: solid;
+  bottom: 350px;
+  height: 150px;
+  left: 1050px;
+  position: absolute;
+  width: 250px;
+}
+
+.regression{
+  border-radius: 30px;
+  border-style: solid;
+  bottom: 100px;
+  height: 150px;
+  left: 150px;
+  position: absolute;
+  width: 250px;
+}
+
+.neural{
+  border-radius: 30px;
+  border-style: solid;
+  bottom: 100px;
+  height: 150px;
+  left: 620px;
+  position: absolute;
+  width: 250px;
+}
+
+.hmm{
+  border-radius: 30px;
+  border-style: solid;
+  bottom: 100px;
+  height: 150px;
+  left: 1050px;
+  position: absolute;
+  width: 250px;
+}
+
+label{
+  left: 50px;
+  position: absolute;
+  top: 10px;
+}
+
+input{
+  bottom: 50px;
+  left: 30px;
+  position: absolute;
+}
+
+.tit{
+  color: #322f3d;
+  font-family: 'Cinzel Decorative', cursive;
+  left: 410px;
+  position: absolute;
+}
+
+.crt{
+  color: #322f3d;
+  font-family: 'Cinzel Decorative', cursive;
+  left: 550px;
+  position: absolute;
+  top: 60px;
+}
+
+body{
+  background-color: #382933;
+  color: #cedebd;
+}
+label{
+  font-family: 'Aref Ruqaa', serif;
+}
+
+input{
+  background-color: #eeeee;
+  border-color: #ffcb8e;
+  border-radius: 40px;
+  border-style: none;
+  color: #31112c;
+  font-family: 'Cormorant Unicase', serif;
+  height: 40px;
+  width: 200px;
+}
+
+input:hover{
+  background-color: #686d76;
+  color: #fadcaa;
+  font-family: 'Cinzel Decorative', cursive;
+  transition: background-color .5s;
+  transition: color .5s;
+}
+
+.head{
+  background-color: #3eeeee;
+  height: 150px;
+  position: absolute;
+  width: 1550px;
+
+}
+
+div:hover{
+  background-color: #373a40;
+  border-style: none;
+  color: grey;
+  transform: scale(1.5);
+  transition: border-style .5s;
+  transition: transform .4s;
+}

@@ -1,0 +1,32 @@
+h1{
+  font-family: 'Aref Ruqaa', serif;
+  left: 520px;
+  position: absolute;
+}
+.first{
+  font-family: 'Cinzel Decorative', cursive;
+  position: absolute;
+  top: 150px;
+}
+.second{
+  font-family: 'Cinzel Decorative', cursive;
+  position: absolute;
+  top: 250px;
+}
+.third{
+  font-family: 'Cinzel Decorative', cursive;
+  position: absolute;
+  top: 280px;
+}
+
+div{
+  left: 300px;
+  position: absolute;
+  top: 450px;
+}
+
+.cou{
+  left: 700px;
+  position: absolute;
+  top: 700px;
+}

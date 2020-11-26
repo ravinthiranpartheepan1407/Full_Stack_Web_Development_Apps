@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="/stymean.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@700&family=Cinzel+Decorative&family=Cormorant+Unicase:wght@300&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>K-Means Clustering Simulator</h1>
+    <p class="first">clusteringAssume training instances(e1,e2, …,eN) are described by P continuous-valued parameters.
+    The task of the k-means clustering is to group N training instances into k (k ≤N) clustersC={K1,K2,…,Kk}
+    so that the sum of squared intra-cluster distances is minimized:The algorithm is given: Sum(k)is the number of clusters;Sum of The distance D(e, Ki) between the instance e and the cluster K is the distance between the instance ant the mean of the cluster μi: D(e, Ki) = D(e, μi)</p>
+
+    <p class="second">clustering Initialization </p>
+    <p class="third">1.
+      Randomly assign instances into k clusters and compute cluster means μi, i= 1,…k or2.
+      Randomly select k instances and consider their values to be cluster means μi, i= 1,…k Repeat for IT iterations
+      If there weren’t any instance to cluster reassignments during the last iteration then terminate􀁺Repeat for every training instance e
+      Remove instance efrom its cluster􀁺Update mean of that cluster􀁺Assign instance eto the nearest cluster Kn,
+      Re-estimate cluster means, if necessary1,...argmin(,)</p>
+
+      <br>
+      <form class="" action="/" method="post">
+      <div class="">
+      <table>
+        <tr>
+          <td><label>Instance 1</label></td>
+          <td><input type="text" name="datassss" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 2</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 3</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 4</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 5</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 6</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 7</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>Instance 8</label></td>
+          <td><input type="number" name="datas" value=""></td>
+          <td><input type="number" name="datass" value=""></td>
+          <td><select class="data">
+            <option value="" selected disabled hidden>Select a class</option>
+            <option value="1">A</option>
+            <option value="0">B</option>
+          </select></td>
+          <td><select class="dataa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">1</option>
+            <option value="0">0</option>
+          </select></td>
+          <td><select class="dataaa">
+            <option value="" selected disabled hidden>Indicate Cluster 1 Instances</option>
+            <option value="1">2</option>
+            <option value="0">0</option>
+          </select></td>
+        </tr>
+      </table>
+      <input type="submit" name="" value="K-Means Clustering">
+    </div>
+  </form>
+  </body>
+</html>
