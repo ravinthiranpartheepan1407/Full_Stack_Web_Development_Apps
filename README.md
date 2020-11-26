@@ -1,6 +1,6 @@
 # Full_Stack_Web_Development_Apps - Hosted on Heroku Cloud
 
-Block Chain App - Developed with Node Js and ES6. This Application is based on test driven development.
+Block Chain App - Developed with Node Js(Express, JEST) and ES6. This Application is based on test driven development.
 
 Portfolio Web App - Developed with HTML5, Css, Javascript, Node JS - Express, router, BodyParser, Mongodb, API-Mailchimp
 
